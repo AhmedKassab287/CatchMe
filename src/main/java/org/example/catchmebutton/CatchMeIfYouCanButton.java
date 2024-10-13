@@ -40,6 +40,7 @@ public class CatchMeIfYouCanButton extends Application {
         primaryStage.setTitle("Catch Me If You Can!");
         primaryStage.setScene(scene);
         primaryStage.show();
+
     }
 
     public static void main(String[] args) {
